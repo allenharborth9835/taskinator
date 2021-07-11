@@ -23,7 +23,7 @@ body {
 
 header {
   background: var(--secondary);
-  padding: 30px 25px;
+  padding: 30px 5px;
   border-bottom: 5px solid var(--primary);
 }
 
@@ -40,8 +40,6 @@ li {
 
 form {
   display: flex;
-  align-items: flex-end;
-  flex-wrap: wrap;
 }
 
 form input {
